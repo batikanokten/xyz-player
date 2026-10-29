@@ -1,0 +1,28 @@
+# Project / Scratch Plans
+*plan*.md
+proje_uygulama_plan*.md
+scratch/
+
+# Binaries & Executables (Download via updater.bat or official mpv/yt-dlp releases)
+*.exe
+*.com
+*.dll
+mpv/mpv.exe
+mpv/mpv.com
+mpv/yt-dlp.exe
+
+# Cache & Temporary Files
+*.cache
+*.tmp
+*.log
+mpv_launch.log
+mpv/portable_config/cache/
+cache/
+
+# System & Tool Artifacts
+.system_generated/
+.user_uploaded/
+.vscode/
+.idea/
+Thumbs.db
+[Dd]esktop.ini

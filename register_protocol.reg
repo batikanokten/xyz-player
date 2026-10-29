@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\xyz]
+@="URL:XYZ Open-Source Player"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\xyz\shell\open\command]
+@="\"D:\\xyz-player\\mpv\\mpv.exe\" \"%1\""
